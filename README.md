@@ -3,11 +3,7 @@
 
 ## Preview
 
-![Hero section, desktop](docs/screenshots/hero-desktop.png)
-
-<p align="center">
-  <img src="docs/screenshots/hero-section.png" alt="Hero section, mobile" width="24%" />
-</p>
+![Hero section, desktop](docs/screenshots/hero-section.png)
 
 **Turn your dream home into reality.**
 
